@@ -1,0 +1,14 @@
+Home_Team,Away_Team,Home_Prob,Predicted_Winner,Home_Or_Away,Predicted_Winning_Team,
+LAC,MIN,0.59,Home,Home,LAC,LAC
+ATL,MIA,0.73,Home,Home,ATL,MIA
+BAL,CHI,0.35,Away,Away,CHI,BAL
+CAR,BUF,0.34,Away,Away,BUF,BUF
+CIN,NYJ,0.52,Home,Home,CIN,NYJ
+HOU,SF,0.29,Away,Away,SF,HOU
+NE,CLE,0.67,Home,Home,NE,NE
+PHI,NYG,0.39,Away,Away,NYG,PHI
+NO,TB,0.46,Away,Away,TB,TB
+DEN,DAL,0.2,Away,Away,DAL,DEN
+IND,TEN,0.65,Home,Home,IND,IND
+PIT,GB,0.49,Away,Away,GB,GB
+KC,WAS,0.61,Home,Home,KC,KC

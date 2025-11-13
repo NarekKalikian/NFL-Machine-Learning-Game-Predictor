@@ -1,0 +1,29 @@
+#Important stats to potentially compile in dataset:
+
+# Point Differential (PD)
+# Time of Possession (ToP)
+# Yards Differential
+    # Total Yards vs Total Yards Allowed
+        # Break down further into:
+            # Rushing Yards vs Rushing Yards Allowed
+            # Passing Yards vs Passing Yards Allowed
+# Yards Per Play (YPP)
+# Turnover Ratio
+    # Turnovers committed vs Takeaways (INTs and FFs)
+# Sacks
+# Penalties and Penalty Yards
+# QB Performance
+# Net Yards Per Attempt (NY/A)
+# Expected Points Added (EPA)
+# Defense-adjusted Value Over Average (DVOA)
+# Redzone Efficiency
+# 3rd Down Conversion Rate
+# 4th Down Conversion Rate?
+# Field Goal %
+    # Break down further into:
+        # FG% from 30+
+        # FG% from 40+
+        # FG% from 50+
+        # FG% from 60+? (Lower feature importance - 1/1 would be 100% but small sample size for ex.)
+# Home Field Advantage - Feature Importance maybe less but still important
+# Injury Rate - Kinda same ^

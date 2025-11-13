@@ -1,0 +1,16 @@
+Home_Team,Away_Team,Home_Prob,Predicted_Winner,Home_Or_Away,Predicted_Winning_Team
+CIN,PIT,0.38,Away,Away,PIT
+JAX,LAR,0.53,Home,Home,JAX
+CHI,NO,0.49,Away,Away,NO
+CLE,MIA,0.48,Away,Away,MIA
+KC,LV,0.51,Home,Home,KC
+MIN,PHI,0.53,Home,Home,MIN
+NYJ,CAR,0.42,Away,Away,CAR
+TEN,NE,0.41,Away,Away,NE
+DEN,NYG,0.56,Home,Home,DEN
+LAC,IND,0.58,Home,Home,LAC
+ARI,GB,0.51,Home,Home,ARI
+DAL,WAS,0.73,Home,Home,DAL
+SF,ATL,0.4,Away,Away,ATL
+DET,TB,0.55,Home,Home,DET
+SEA,HOU,0.35,Away,Away,HOU
