@@ -5,7 +5,7 @@
 </p>
 
 <h2>Introduction</h2>
-<h3>I am working on a game prediction model for matchups in the 2025 NFL season (ongoing).I carefully researched and selected a set of 17 statistical categories (features). Each week, I create a new CSV containing each NFL matchup (NFL week 5, NFL week 6, etc.) and the corresponding data for the home and away teams for each matchup. The matchup outcomes are the target variable.</h3>
+<h3>I am working on a game prediction model for matchups in the 2025 NFL season (ongoing). I carefully researched and selected a set of 17 statistical categories (features). Each week, I create a new CSV containing each NFL matchup (NFL week 5, NFL week 6, etc.) and the corresponding data for the home and away teams for each matchup. The matchup outcomes are the target variable.</h3>
 
 <h2>Assets/Libraries</h2>
 <ul>
